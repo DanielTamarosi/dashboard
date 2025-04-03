@@ -1,0 +1,7 @@
+pandas
+plotly
+requests 
+requests-file
+requests-oauthlib
+streamlit
+streamlit-jupyter
